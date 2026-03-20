@@ -132,12 +132,7 @@ To further enhance the insights from this Market Basket Analysis and provide eve
 
 <a id="contact"></a>
 
-## Contact
-For more information, please contact:
 
-**Name:** Matt Delaune
-
-**Email:** matt.delaune@gmail.com
 
 <a id="screenshots"></a>
 
